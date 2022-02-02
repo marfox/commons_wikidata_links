@@ -1,0 +1,10 @@
+# Copied from
+# https://gitlab.wikimedia.org/gmodena/platform-airflow-dags/-/blob/6332dfb2ab9f3cf23aff5292981bdca669b141b6/datapipeline-scaffold/%7B%7Bcookiecutter.pipeline_directory%7D%7D/pyspark/requirements-test.txt
+pytest==6.2.2
+pytest-spark==0.6.0
+pytest-cov==2.10.1
+mypy==0.910             
+mypy-extensions==0.4.3  
+typed-ast               
+pyspark-stubs==2.4.0.post10
+flake8
